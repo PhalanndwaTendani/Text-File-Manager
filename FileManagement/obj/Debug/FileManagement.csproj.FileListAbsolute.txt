@@ -1,0 +1,7 @@
+T:\FileManagement\bin\Debug\FileManagement.exe.config
+T:\FileManagement\bin\Debug\FileManagement.exe
+T:\FileManagement\bin\Debug\FileManagement.pdb
+T:\FileManagement\obj\Debug\FileManagement.csproj.AssemblyReference.cache
+T:\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+T:\FileManagement\obj\Debug\FileManagement.exe
+T:\FileManagement\obj\Debug\FileManagement.pdb
